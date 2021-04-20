@@ -69,7 +69,7 @@ https://elixircasts.io/installing-elixir-with-asdf (Install elixir from asdf)
 🛑 Need elixir 1.6+ installed
 </br>
 
-<h2> PostegreSQL 🐘</h2> 
+<h2> PostgreSQL 🐘</h2> 
 </br>
 You can install from here:
 
